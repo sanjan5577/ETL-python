@@ -1,0 +1,28 @@
+[
+    {
+      "city":"Castle Rock",
+      "products": [
+              {"name":"Elegant Bronze Soap","price":"493.00"},
+              {"name":"Modern Fresh Ball","price":"836.00"},
+              {"name":"Small Fresh Bacon","price":"711.00"},
+              {"name":"Ergonomic Granite Salad","price":"590.00"},
+              {"name":"Fresh Bacon","price":"422.00"}
+    
+       ],
+      "id":"1"
+    },
+    {
+  
+      "city":"Palatine",
+      "products": [
+                {"name":"Handmade Rubber Pizza","price": "633.00"},
+                {"name":"Fantastic Granite Mouse","price": "124.00"},
+                {"name":"Awesome Granite Shoes","price":"585.00"},
+                {"name":"Rustic Frozen Ball","price": "280.00"},
+                {"name": "Handmade Wooden Shirt","price":"498.00"}
+      ],
+     "id":"2"
+     }
+  
+  ]
+  
